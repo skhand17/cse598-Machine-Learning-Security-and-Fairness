@@ -1,2 +1,3 @@
 We have captured the dataset from the below link:
-https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
+https://www.kaggle.com/c/rsna-pneumonia-detection-challenge. The Zipped folder needed to be uploaded to google drive. Once it is uploaded, one need to mount the 
+drive in Google Colab workspace and unzip the folder.
